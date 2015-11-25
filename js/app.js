@@ -36,22 +36,22 @@ angular.module("uiApp", ['ui.router', 'ui.bootstrap'])
 
 })
 .controller('WebController', function($scope,$http){
-	$http.get('../data/web.json').then(function(response){
+	$http.get('data/web.json').then(function(response){
 		$scope.data = response.data;
 	})
 })
 .controller('ResearchController', function($scope,$http){
-	$http.get('../data/research.json').then(function(response){
+	$http.get('data/research.json').then(function(response){
 		$scope.data = response.data;
 	})
 })
 .controller('ContactController', function($scope,$http){
-	$http.get('../data/contact.json').then(function(response){
+	$http.get('data/contact.json').then(function(response){
 		$scope.data = response.data;
 	})
 })
 .controller('DocumentsController', function($scope,$http){
-	$http.get('../data/documents.json').then(function(response){
+	$http.get('data/documents.json').then(function(response){
 		$scope.data = response.data;
 	})
 })
