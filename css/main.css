@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:700);
+@import url(https://fonts.googleapis.com/css?family=Lobster+Two);
+
+body{
+	background-color: #837b9c;
+	font-size: 25px;
+	padding-top: 50px;
+}
+
+p {
+	font-family: 'Lobster Two', cursive;
+	font-size: 1em;
+	color: #393952;
+}
+
+h1, h2{
+	font-family: 'PT sans', Helvetica, sans-serif;
+	font-size: 2em;
+	color: #6a319c;
+}
+
+h2 {
+	font-size: 1.25em;
+}
+
+nav {
+	background-color: #6a319c;
+}
+
+li a {
+	font-family: 'Lobster Two', Helvetica, sans-serif;
+	color: #b44aee;
+}
+
+#header {
+	position: relative;
+	overflow: hidden;
+	padding-top: 1em;
+	background-color: #eee6ee;
+}
+
+#header #row, img {
+	position: relative;
+}
+
+#header #profilePicture {
+	width: 60%;
+	height: auto;
+	padding-bottom: .5em;
+}
+
+#background {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	opacity: 0.5;
+}
+
+.section {
+	/*width: 100%;
+	height: 300px;*/
+	background-color: #b4acc5;
+}
+
+.hexagon {
+  fill: none;
+  stroke: #ffffff;
+  stroke-width: 1.5px;
+}
+
+
+
