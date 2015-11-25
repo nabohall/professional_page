@@ -1,2 +1,2 @@
-[{"title":"Edge Magic Labels","imgURL":"../img/magicprogram.png","url":"_blank","description":"This is a Python program that I wrote to find edge magic labeling of any graph the user wanted","idName":"magicprog"},
-{"title":"M-Gap Progressions","imgURL":"../img/mgapprogram.png","url":"_blank","description":"This program, developed in Python, was created to help us find the Ramsey Number for m-gap progression, also known as combinatorial progressions","idName":"mgapprog"}]
+[{"title":"Edge Magic Labels","imgURL":"img/magicprogram.png","url":"_blank","description":"This is a Python program that I wrote to find edge magic labeling of any graph the user wanted","idName":"magicprog"},
+{"title":"M-Gap Progressions","imgURL":"img/mgapprogram.png","url":"_blank","description":"This program, developed in Python, was created to help us find the Ramsey Number for m-gap progression, also known as combinatorial progressions","idName":"mgapprog"}]
